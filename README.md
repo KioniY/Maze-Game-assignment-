@@ -5,3 +5,5 @@ e.g. java Launcher maze001.txt
 
 command for GUI view
 e.g. java Launcher GUI maze001.txt
+
+Use AWSD to move
